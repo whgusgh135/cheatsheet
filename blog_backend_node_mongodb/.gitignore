@@ -1,0 +1,5 @@
+# dependencies
+/node_modules
+
+# production sensitive data
+/config/dev.js
